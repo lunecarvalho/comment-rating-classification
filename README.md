@@ -12,11 +12,12 @@ Classificar comentários de usuários por meio de técnicas de **PLN** e **Machi
 
 ## 🧠 Metodologia
 
-- Análise inicial dos dados  
-- Pré-processamento e normalização dos textos  
-- Vetorização com **Bag of Words** e **TF-IDF**  
-- Treinamento de modelo de **Regressão Logística**  
-- Avaliação do modelo com **acurácia**
+- Análise inicial dos dados.
+- Pré-processamento e normalização dos textos.  
+- Tratamento textual com **tokenização, stemming e n-grams**.  
+- Vetorização de textos utilizando **Bag of Words** e **TF-IDF**.  
+- Treinamento de modelo de **Regressão Logística**.  
+- Avaliação do modelo com a métrica de **acurácia**.
 
 ---
 
@@ -46,11 +47,12 @@ Classify user comments using **NLP** and **Machine Learning techniques**, suppor
 
 ## 🧠 Methodology
 
-- Initial data analysis  
-- Text preprocessing and normalization  
-- Text vectorization using **Bag of Words** and **TF-IDF**  
-- Training a **Logistic Regression** model  
-- Model evaluation using **accuracy**
+- Initial data analysis.  
+- Text preprocessing and normalization.  
+- Text processing with **tokenization, stemming, and n-grams**.  
+- Text vectorization using **Bag of Words** and **TF-IDF**.  
+- Training a **Logistic Regression** model.  
+- Model evaluation using **accuracy**.
 
 ---
 
